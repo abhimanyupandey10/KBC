@@ -1,0 +1,35 @@
+body {
+    height: 100%;
+    background-color: purple;
+}
+
+.container{
+    margin-top: 20px;
+    background-color: cornflowerblue ;
+}
+#main{
+    margin-top: 70px;
+}
+.op{
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    color: aqua     ;  
+}
+#quest{
+    background-color: darkorchid;
+    color: yellowgreen;
+}
+.m_quest{
+    color: white;
+    background-color: black;
+}
+
+#welcome{
+    display: block;
+}
+
+#game{
+    display: none;
+}

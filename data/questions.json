@@ -1,75 +1,75 @@
 [
     {
-        "question": "What is the ...",
+        "question": "Which Vitamin do we get from lemon?",
         "options": [
             {
-                "text": "first option"
+                "text": "Vitamin A"
             },
             {
-                "text": "second option"
+                "text": "Vitamin C"
             },
             {
-                "text": "third option"
+                "text": "Vitamin B"
             },
             {
-                "text": "fourth option"
+                "text": "Vitamin E"
+            }
+        ],
+        "correct": 1,
+        "level": 1
+    },
+    {
+        "question": "What colour do we add to red to find green",
+        "options": [
+            {
+                "text": "Blue"
+            },
+            {
+                "text": "Red"
+            },
+            {
+                "text": "Yellow"
+            },
+            {
+                "text": "Black"
+            }
+        ],
+        "correct": 3,
+        "level": 1
+    },
+    {
+        "question": "What is 21 x 3 = ?",
+        "options": [
+            {
+                "text": "20"
+            },
+            {
+                "text": "49"
+            },
+            {
+                "text": "27"
+            },
+            {
+                "text": "63"
             }
         ],
         "correct": 2,
         "level": 1
     },
     {
-        "question": "What is the ...",
+        "question": "Who was the first president of India?",
         "options": [
             {
-                "text": "first option"
+                "text": "Javahar lal nehru"
             },
             {
-                "text": "second option"
+                "text": "Rajendra prasad"
             },
             {
-                "text": "third option"
+                "text": "Subhash chandra bose"
             },
             {
-                "text": "fourth option"
-            }
-        ],
-        "correct": 2,
-        "level": 1
-    },
-    {
-        "question": "What is the ...",
-        "options": [
-            {
-                "text": "first option"
-            },
-            {
-                "text": "second option"
-            },
-            {
-                "text": "third option"
-            },
-            {
-                "text": "fourth option"
-            }
-        ],
-        "correct": 2,
-        "level": 1
-    },
-    {
-        "question": "What is the ...",
-        "options": [
-            {
-                "text": "first option"
-            },
-            {
-                "text": "second option"
-            },
-            {
-                "text": "third option"
-            },
-            {
-                "text": "fourth option"
+                "text": "Narendra Modi"
             }
         ],
         "correct": 2,
